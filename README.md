@@ -8,4 +8,3 @@
 minnitien/minnitien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Check here my blog <a href="https://www.dsom.in/free-classified-sites-in-india"> Classified Submission Sites in India</a>.
